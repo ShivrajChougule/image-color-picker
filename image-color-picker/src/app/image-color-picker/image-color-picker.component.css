@@ -5,14 +5,10 @@ input[type='file'],canvas{
   margin: 10px;
   background-color:#e2e2e2;
 }
-
-input[type='text']
-{
+input[type='text']{
   box-shadow:0px 0px 5px 5px #e2e2e2;
 }
-
-canvas
-{
+canvas{
 width:500px;
 height:400px;
 cursor:crosshair;
@@ -26,16 +22,13 @@ box-shadow:0px 0px 5px 5px #e2e2e2;
 .data>*{
   margin: 10px;
 }
-.hideData
-{
+.hideData{
   display:none;
 }
-.displayData
-{
+.displayData{
   display:block;
 }
-.colorval
-{
+.colorval{
   width:100px;
   height:100px;
   margin-left:30px;
@@ -43,12 +36,11 @@ box-shadow:0px 0px 5px 5px #e2e2e2;
   border-radius: 5px;
   box-shadow:0px 0px 5px 5px #e2e2e2;
 }
-.displayCol
-{ 
+.displayCol{ 
   display:block;
   background-color: var(--bgcolorval);
 }
-body {
+body{
   --bgcolorval: rgba(0,0,0,0)
 }
 @media only screen and (max-width :400px){
