@@ -16,13 +16,13 @@ Download the image-color-picker folder and install the required packages and run
 ### Installing
 
 ```
- >npm install
+ > npm install
 ```
 
 ### Run server
 
 ```
- >ng serve
+ > ng serve
 ```
 
 ## STEPS:
