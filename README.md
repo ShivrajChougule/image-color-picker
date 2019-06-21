@@ -46,8 +46,7 @@ By clicking on image you will get RGBA and HEX values in textboxes, you can copy
 ### Below method will give HEX and RGBA values.
 
 ```typescript
-getcolval(event)
-{
+getcolval(event) {
 console.log(event);
 }
 ```
